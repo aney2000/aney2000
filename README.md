@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dragan Andrei-Valentin</h1>
 <h3 align="center">SW Integrator | Release Manager | Build Manager | Jenkins & Git | Software Engineer</h3>
 <h4 align="left">🚗 Software Integrator | DevOps Enthusiast | Lifelong Learner
+👩🏻‍💻 Currently working in the automotive industry as a software integrator on a large-scale project. Passionate about DevOps, continuous integration, and building robust software systems.
+📚 Recently completed my Bachelor's and Master's degrees, and I’m eager to collaborate with brilliant minds to create impactful solutions and, hopefully, change the world—one line of code at a time.
+🤓 Always curious, always learning, and always excited to take on new challenges.</h4>
 
-Currently working in the automotive industry as a software integrator on a large-scale project. Passionate about DevOps, continuous integration, and building robust software systems.
-
-Recently completed my Bachelor's and Master's degrees, and I’m eager to collaborate with brilliant minds to create impactful solutions and, hopefully, change the world—one line of code at a time.
-
-Always curious, always learning, and always excited to take on new challenges.</h4>
 - 📫 How to reach me **aney2000@yahoo.com**
 - 👨‍💻 All of my projects are available at **https://github.com/aney2000**
 - ⚡ Fun fact **I can applaud with one hand.**
